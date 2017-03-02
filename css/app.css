@@ -1,0 +1,119 @@
+body{
+  font-family: 'Satisfy', cursive;
+}
+.fondo{
+background-image: url(../img/fondo.jpg);
+background-size: cover;
+ background-attachment: fixed;
+
+
+}
+.content{
+
+ background: rgba(0, 0, 0 , .7);
+
+
+}
+.logo{
+padding-left: 15px;
+margin-top: 20px;
+}
+.slogan img{
+
+height: 30px;
+margin-bottom: 10px;
+margin-left: 35%;
+}
+.buscador{
+
+  margin-top: 20px;
+  margin-right: 10px;
+  padding-right: 50px;
+
+}
+.lista{
+  list-style: none;
+  padding-left: 15px;
+}
+.historial{
+  list-style: none;
+  padding-left: 30px;
+}
+.buscar{
+  margin-left: 5px;
+  max-width: 100%;
+}
+.boton a{
+color: black !important;
+border: solid gray 1px;
+}
+
+.menu{
+
+}
+.lista a {
+  font-family: 'Satisfy', cursive;
+}
+.favoritos h5{
+color: white;
+font-family: 'Satisfy', cursive;
+
+}
+.recientes h4{
+  font-family: 'Satisfy', cursive;
+}
+.titulo-receta h4{
+  font-family: 'Satisfy', cursive;
+}
+.fecha h6{
+  font-family: 'Satisfy', cursive;
+}
+.imagen-receta{
+  max-height: 350px;
+  margin-left: 10%;
+  margin-right: 10%;
+  background-color: red;
+  max-width: 80%;
+  border: solid black 1px;
+}
+.titulo-receta, .fecha{
+  padding-left: 13%;
+
+}
+.texto{
+    padding-left: 13%;
+    padding-right: 14%;
+    padding-top: 10px;
+}
+.persona{
+
+  padding-left: 5%;
+
+}
+
+.seccion-comentarios img{
+  max-height: 50px;
+}
+.seccion-comentarios{
+
+}
+
+.imagen{
+
+
+}
+
+.contenido-izquierdo {
+  border-right: solid lightgray 1px;
+
+}
+.seccion-abajo{
+  border-top: solid lightgray 1px;
+}
+.columna-derecha{
+  margin-top: 15px;
+
+}
+.recientes{
+  color: white;
+}
