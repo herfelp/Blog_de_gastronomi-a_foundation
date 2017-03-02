@@ -28,9 +28,11 @@ margin-left: 35%;
 
   margin-top: 20px;
   margin-right: 10px;
-  padding-right: 50px;
-
 }
+.buscar{
+  max-width: 100%;
+}
+
 .lista{
   list-style: none;
   padding-left: 15px;
@@ -39,18 +41,12 @@ margin-left: 35%;
   list-style: none;
   padding-left: 30px;
 }
-.buscar{
-  margin-left: 5px;
-  max-width: 100%;
-}
+
 .boton a{
 color: black !important;
 border: solid gray 1px;
 }
 
-.menu{
-
-}
 .lista a {
   font-family: 'Satisfy', cursive;
 }
@@ -94,14 +90,7 @@ font-family: 'Satisfy', cursive;
 .seccion-comentarios img{
   max-height: 50px;
 }
-.seccion-comentarios{
 
-}
-
-.imagen{
-
-
-}
 
 .contenido-izquierdo {
   border-right: solid lightgray 1px;
